@@ -2,7 +2,7 @@ archivio= {}
 condizione = True
 
 print('''\tMENU
-Comando 0 = Uscires
+Comando 0 = Uscire
 Comando 1 = Visualizza Menu
 Comando 2 = Aggiungi Autore
 Comando 3 = Aggiungi Libro
